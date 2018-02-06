@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/inspectionProfiles/
+.idea/workspace.xml
+node_modules/
+src/css/
+src/fonts/
+!src/js/navbar-fixed.js
+#!node_modules/bootstrap/scss/_variables.scss
+src/js/
